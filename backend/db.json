@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13",
+      "price": 4200
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi mi 8",
+      "price": 1200
+    }
+  ]
+}
