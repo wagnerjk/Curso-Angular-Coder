@@ -13,3 +13,12 @@
 .sidenav i {
     padding-right: 10px;
 }
+
+.content {
+    padding: 5px 16px 16px 16px;
+    background-color: #FFFFFF;
+}
+
+.container {
+    margin-top: 9px;
+}
